@@ -1,0 +1,43 @@
+site_name: Webex Calling Customer Assist
+site_description: Cisco Live Melbourne 2026 LABCOL-2883 lab guide
+site_url: https://joshua-tan-wai-kiat.github.io/labcol-2883-webex-calling-customer-assist-lab-guide/
+repo_url: https://github.com/Joshua-Tan-Wai-Kiat/labcol-2883-webex-calling-customer-assist-lab-guide
+edit_uri: edit/main/docs/
+theme:
+  name: material
+  font: false
+  palette:
+    primary: indigo
+    accent: cyan
+  features:
+  - navigation.footer
+  - navigation.top
+  - search.highlight
+  - search.suggest
+  - content.action.edit
+plugins:
+- search
+markdown_extensions:
+- attr_list
+- tables
+- toc:
+    permalink: true
+extra_css:
+- stylesheets/extra.css
+extra:
+  generator: false
+nav:
+- Learning Objectives: index.md
+- Overview: 01-overview.md
+- Topology: 02-topology.md
+- 'Task 1: Accessing your Lab': 03-task-1-accessing-your-lab.md
+- 'Task 2: Create Unified Communications Manager bulk config export tar file [5 minutes]': task-2.md
+- 'Task 3: Create Unity Connection Call Handler Data Dump [3 minutes]': task-3.md
+- 'Task 4: Access Control Hub [2 minutes]': 04-task-4-access-control-hub-2-minutes.md
+- 'Task 5: Migrate Auto Attendant and Call Queue [10 minutes]': 05-task-5-migrate-auto-attendant-and-call-queue-10-minutes.md
+- 'Task 6: Bulk import Auto Attendant [5 minutes]': 06-task-6-bulk-import-auto-attendant-5-minutes.md
+- 'Task 7: Bulk import Call Queues [5 minutes]': 07-task-7-bulk-import-call-queues-5-minutes.md
+- 'Task 8: Add Supervisor for Customer Assist [5 minutes]': 08-task-8-add-supervisor-for-customer-assist-5-minutes.md
+- 'Task 9: Advance Call Queue Configuration [5 minutes]': 09-task-9-advance-call-queue-configuration-5-minutes.md
+- 'Task 10: Validation step [10 minutes]': 10-task-10-validation-step-10-minutes.md
+use_directory_urls: false
