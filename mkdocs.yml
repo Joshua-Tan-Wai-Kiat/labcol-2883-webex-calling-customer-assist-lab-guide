@@ -1,7 +1,7 @@
 site_name: LABCOL-2883 · Webex Calling Customer Assist
 site_description: Cisco Live Melbourne 2026 LABCOL-2883 lab guide
-site_url: https://joshua-tan-wai-kiat.github.io/labcol-2883-webex-calling-customer-assist-lab-guide/
-repo_url: https://github.com/Joshua-Tan-Wai-Kiat/labcol-2883-webex-calling-customer-assist-lab-guide
+site_url: https://cisco-collaboration-labguide.github.io/LABCOL-2883-Webex-Calling-Customer-Assist/
+repo_url: https://github.com/cisco-collaboration-labguide/LABCOL-2883-Webex-Calling-Customer-Assist
 edit_uri: edit/main/docs/
 theme:
   name: material

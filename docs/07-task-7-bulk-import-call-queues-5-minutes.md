@@ -89,6 +89,7 @@ greeting audio files), the Migrate Feature from the UCM tool is unable
 to map to the correct Webex Calling location or recognize the location
 name, language, or greeting file. As a result, the adjustments outlined
 above are necessary.</p></aside>
+<p>Review the exported CSV and resolve all reported migration errors. Remove the <strong>Errors</strong> and <strong>Notes</strong> columns before uploading the CSV to Control Hub.</p>
 <p>Once all the fields updated, close Excel by choosing: File &gt;
 Close.</p>
 <p>Save the file and click “<strong>Save</strong>” for the prompt

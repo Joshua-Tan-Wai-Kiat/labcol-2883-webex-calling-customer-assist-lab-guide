@@ -44,7 +44,8 @@ with the credential details:</p>
 ## Login to Collaboration Control Hub from within Workstation 1 {#login-to-collaboration-control-hub-from-within-workstation-1}
 <p>Lauch the Chrome browser from within workstation 1and go to <a href="https://admin.webex.com/">https://admin.webex.com</a>. Login using
 the credentials from the WEBEX_PASSWORD.txt file from the previous
-section. If you do not see the WEBEX_PASSWORD.txt file, follow the
-instructions below. Otherwise, begin <a href="task-2.html">Module 1</a> of this lab. All the lab tasks
-should be completed from within Workstation 1</p>
+section. If WEBEX_PASSWORD.txt is not present, check Session_Info.txt on the
+Desktop. If neither file is available, ask the lab instructor for your session credentials.
+Continue with <a href="task-2.html">Task 2</a>. Complete the configuration tasks
+from Workstation 1; Task 10 specifies the devices and accounts to use for validation</p>
 <p><strong>Now you can proceed with the lab modules.</strong></p>

@@ -20,7 +20,7 @@ password shown in “Cisco Unified Communication Manager”</p></li>
 <figure class="lab-figure"><a class="screenshot-link" href="assets/images/image16.png" aria-label="Enlarge Lab guide screenshot 16"><img class="lab-screenshot" src="assets/images/image16.png" alt="Lab guide screenshot 16" width="504" height="279" loading="lazy"/></a></figure>
 <ol start="4" type="1">
 <li><p>Click on “Cisco Unified Communication Manager”</p></li>
-<li><p>Type in the userid and password from step #2 above, and then
+<li><p>Type in the userid and password from step #3 above, and then
 click “Login”</p></li>
 </ol>
 <figure class="lab-figure"><a aria-label="Enlarge Lab guide screenshot 17" class="screenshot-link" href="assets/images/image17.png"><img alt="Lab guide screenshot 17" class="lab-screenshot" height="706" loading="lazy" src="assets/images/image17.png" width="1688"/></a></figure>
@@ -38,10 +38,9 @@ then click on “Export”</p></li>
 <li><p>Navigate to “Bulk Administration” &gt; “Upload/Download Files”
 &gt; click on “Find”</p></li>
 <li><p>It might take up to 1-2 minutes for the tar file to be created
-and shown. Occasionally re-click the “Find” button till the
-“UCM_Export_All_xxxxxx.tar” file appear.</p></li>
+and shown. Occasionally click “Find” again until your exported TAR file appears.</p></li>
 <li><p>Click the check box to the left of
-“UCM_Export_All_xxxxxx.tar”</p></li>
+the exported TAR file you just created.</p></li>
 </ol>
 <figure class="lab-figure"><a aria-label="Enlarge Lab guide screenshot 20" class="screenshot-link" href="assets/images/image20.png"><img alt="Lab guide screenshot 20" class="lab-screenshot" height="770" loading="lazy" src="assets/images/image20.png" width="2242"/></a></figure>
 <ol start="4" type="1">
@@ -56,8 +55,8 @@ download location.</p>
 <ol start="6" type="1">
 <li><p>You can navigate to the download folder directly by left click on
 the download icon on Chrome browser and left click on the folder icon.
-Make note of the location of this tar file. We will be needing it in
-Task 4.</p></li>
+Make note of the location of this tar file. We will need it in
+Task 5.</p></li>
 </ol>
 <figure class="lab-figure"><a aria-label="Enlarge Lab guide screenshot 22" class="screenshot-link" href="assets/images/image22.png"><img alt="Lab guide screenshot 22" class="lab-screenshot" height="190" loading="lazy" src="assets/images/image22.png" width="420"/></a></figure>
 <figure class="lab-figure"><a aria-label="Enlarge Lab guide screenshot 23" class="screenshot-link" href="assets/images/image23.png"><img alt="Lab guide screenshot 23" class="lab-screenshot" height="418" loading="lazy" src="assets/images/image23.png" width="1682"/></a></figure>

@@ -2,7 +2,7 @@
 
 Cisco Live Melbourne 2026 lab guide by Hussain Ali and Omer Ilyas.
 
-[Read the lab guide online](https://joshua-tan-wai-kiat.github.io/labcol-2883-webex-calling-customer-assist-lab-guide/)
+[Read the lab guide online](https://cisco-collaboration-labguide.github.io/LABCOL-2883-Webex-Calling-Customer-Assist/)
 
 Ten lab tasks cover migrating Unity Connection auto attendants and Unified Communications Manager call queues to Webex Calling Customer Assist, assigning agents and supervisors, screen pops, and validation.
 

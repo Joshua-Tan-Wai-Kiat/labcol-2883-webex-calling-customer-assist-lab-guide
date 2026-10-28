@@ -31,7 +31,7 @@ under folder “Walk-In-Lab-&gt; LABCOL &gt; CUCM” and upload by click on
 “Choose a file” or drag and drop to the tool.</p>
 <figure class="lab-figure"><a aria-label="Enlarge Lab guide screenshot 32" class="screenshot-link" href="assets/images/image32.png"><img alt="Lab guide screenshot 32" class="lab-screenshot" height="870" loading="lazy" src="assets/images/image32.png" width="1250"/></a></figure>
 <p>Next is to upload Unity Call Handler Data Dump zip file. Select
-“Unity Connection Call Hanlder Data Dump.zip” file from “Walk-In-Lab
+“Unity Connection Call Handler Data Dump.zip” file from “Walk-In-Lab
 &gt; LABCOL &gt; Unity Connection &gt; Call Handler Data Dump &gt; CSV”
 folder and upload by drag-and-drop or by click on “Choose a file”.</p>
 <aside class="lab-note" role="note"><p><strong><mark>Note: you might have to scroll down to see Unity upload
@@ -65,22 +65,20 @@ New”.</p>
 <li><p>Level = “Organization”</p></li>
 <li><p>Label = “SupportDeskIVR”</p></li>
 <li><p>Use greeting file as noted below.</p></li>
-<li><p>Click “Save” to continue</p></li>
+
 </ul></div><div><a aria-label="Enlarge Lab guide screenshot 37" class="screenshot-link" href="assets/images/image37.png"><img alt="Lab guide screenshot 37" class="lab-screenshot" height="1061" loading="lazy" src="assets/images/image37.png" width="1168"/></a></div></div>
 <p>Click “Select File” or drag-and-drop to upload the greeting audio
 file from “Walk-In-Lab-&gt;LABCOL-&gt;Unity Connection-&gt;Call Handler
 Data Dump-&gt;CSV” folder.</p>
 <p>The file to use is
 “<strong>SupportDeskIVR_GREETING_STANDARD.WAV</strong>".</p>
+<p>After selecting the file and setting the Organization level and label, click “Save”.</p>
 <figure class="lab-figure"><a aria-label="Enlarge Lab guide screenshot 38" class="screenshot-link" href="assets/images/image38.png"><img alt="Lab guide screenshot 38" class="lab-screenshot" height="173" loading="lazy" src="assets/images/image38.png" width="830"/></a></figure>
 <p>After successful upload, the new greeting file will be listed under
 Announcement section as shown below.</p>
 <figure class="lab-figure"><a aria-label="Enlarge Lab guide screenshot 39" class="screenshot-link" href="assets/images/image39.png"><img alt="Lab guide screenshot 39" class="lab-screenshot" height="551" loading="lazy" src="assets/images/image39.png" width="1687"/></a></figure>
 <aside class="lab-note" role="note"><p><strong>Note:</strong></p>
-<p>Test-to-Speech (TTS) for announcement is coming in March 2026, this
-feature will enable efficient and quick prompts, greetings, and
-announcements generation from text. It functions like a recorded WAV
-file eliminating the need for manual recording.</p></aside>
+<p>This lab uses the supplied WAV file for the greeting announcement.</p></aside>
 ## Step 3: Validate Location PSTN Type and Main number {#step-3-validate-location-pstn-type-and-main-number}
 <p>At this step, you will be verifying PSTN type for dCloud
 location.</p>

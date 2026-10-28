@@ -77,8 +77,8 @@ configuration</p></li>
 <p>By configuring screen pops, agents can quickly identify callers and
 access their details, enabling more effective and personalized
 service.</p>
-<p>Repeat the above steps (2-4) for “Q2_WebexContactCenterSupport”
-queue.</p>
+<p>Return to the Queues list and select “Q2_WebexContactCenterSupport”.
+Repeat steps 2–4 for that queue, then click “Save” to apply its Screen Pop settings.</p>
 
 <p><strong>This completes the main portion of this lab: export, prep and
 import of Auto Attendant and Queue configuration from Unified

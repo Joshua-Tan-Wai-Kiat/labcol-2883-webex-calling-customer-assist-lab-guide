@@ -7,8 +7,7 @@ imported to Webex Calling Customer Assist.</p>
 <li><p>To perform the validation, login as Charles Holland, Anita Perez
 and Taylor Bard with Webex app. Follow the table below on which
 workstation to login for each user.</p></li>
-<li><p>User ID and password can be found in <a href="03-task-1-accessing-your-lab.html#login-to-the-webex-clients">Task 1: Step 2 – Login Credentials for Control
-Hub</a>.</p></li>
+<li><p>User ID and password can be found in <a href="03-task-1-accessing-your-lab.html#login-to-the-webex-clients">Task 1: Login to the Webex Clients</a>.</p></li>
 </ul>
 <div aria-label="Lab reference table" class="table-scroll" role="region" tabindex="0"><table>
 
@@ -56,17 +55,14 @@ digit recognition during greeting and menu selection.</p>
 <p><strong>Control Hub password:</strong> <mark>[password from your assigned session]</mark>
 (dCloud + <em>last four digits of session ID</em> + !)</p>
 
-<p>Refer to the “<strong>WEBEX_PASSWORD.txt</strong>” file (Task 1 –
-Step 3, page 13) for the userid and password applicable for you
-session.</p>
+<p>Refer to <a href="03-task-1-accessing-your-lab.html#login-to-the-webex-clients">Task 1: Login to the Webex Clients</a> and the WEBEX_PASSWORD.txt or Session_Info.txt file for your session’s user ID and password.</p>
 <figure class="lab-figure"><a aria-label="Enlarge Lab guide screenshot 95" class="screenshot-link" href="assets/images/image95.png"><img alt="Lab guide screenshot 95" class="lab-screenshot" height="252" loading="lazy" src="assets/images/image95.png" width="336"/></a></figure>
 <p>Click the <strong>two</strong> <strong>checkboxes</strong> and select
 “<strong>Allow Access</strong>” to continue if you encountered this
 pop-up for Webex app – usually happened during first launch.</p>
 <figure class="lab-figure"><a aria-label="Enlarge Lab guide screenshot 96" class="screenshot-link" href="assets/images/image96.png"><img alt="Lab guide screenshot 96" class="lab-screenshot" height="1046" loading="lazy" src="assets/images/image96.png" width="1458"/></a></figure>
 <p>Click “Ok” to acknowledge Emergency Calling Notification warning.
-Refer to the Appendix section to learn more about Emergency Calling for
-Webex Calling [out of scope for this lab].</p>
+Emergency Calling configuration is outside the scope of this lab.</p>
 
 <figure class="lab-figure"><a aria-label="Enlarge Lab guide screenshot 97" class="screenshot-link" href="assets/images/image97.png"><img alt="Lab guide screenshot 97" class="lab-screenshot" height="552" loading="lazy" src="assets/images/image97.png" width="606"/></a></figure>
 
@@ -83,6 +79,8 @@ available under Webex app. Click “Customer Assist” on the left column of
 Webex app, which will show the Queue assignment and status Available in
 the left bottom.</p>
 <figure class="lab-figure"><a aria-label="Enlarge Lab guide screenshot 99" class="screenshot-link" href="assets/images/image99.png"><img alt="Lab guide screenshot 99" class="lab-screenshot" height="2008" loading="lazy" src="assets/images/image99.png" width="2908"/></a></figure>
+<p>Before placing the test call, verify that Anita has joined Q1_WebexCallingSupport and her agent status is Available.</p>
+
 ## Step 3: Call-in to Auto Attendant x6500 {#step-3-call-in-to-auto-attendant-x6500}
 <p>Use Charle Holland Webex app to make a call to Auto Attendant (x6500)
 for Support Desk menu option. Verify that Charles Holland is logged in
@@ -158,8 +156,7 @@ browser window will display with the caller details.</p>
 <figure class="lab-figure"><a aria-label="Enlarge Lab guide screenshot 113" class="screenshot-link" href="assets/images/image113.png"><img alt="Lab guide screenshot 113" class="lab-screenshot" height="278" loading="lazy" src="assets/images/image113.png" width="904"/></a></figure>
 
 ## Step 5: Supervisor Experience for Customer Assist {#step-5-supervisor-experience-for-customer-assist}
-<p>If you have time, you can login as Supervisor Taylor Bard from
-Workstation 1 and login to Webex app to experience the Supervisor
+<p>If you have time, use Workstation 1 for Supervisor Taylor Bard. In Webex App, sign out of Charles Holland’s account if it is still signed in, then sign in as Taylor Bard using the assigned session credentials to experience the Supervisor
 functions and monitoring capabilities.</p>
 <p><strong>Agents Monitoring and Agents Status change:</strong></p>
 <figure class="lab-figure"><a aria-label="Enlarge Lab guide screenshot 114" class="screenshot-link" href="assets/images/image114.png"><img alt="Lab guide screenshot 114" class="lab-screenshot" height="234" loading="lazy" src="assets/images/image114.png" width="948"/></a></figure>
@@ -194,8 +191,7 @@ unavailable to take calls in their queues</td>
 </tbody>
 </table></div>
 
-<p>See appendix for additional resources for “Get started with Webex
-Calling Customer Assist for Supervisors”.</p>
+<p>For additional supervisor resources, see <a href="https://help.webex.com/en-us/article/72sb3r">Cisco’s Webex Calling Customer Assist documentation</a>.</p>
 
 <p><strong>Agents Historical Statistics:</strong></p>
 

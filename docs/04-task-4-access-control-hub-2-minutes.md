@@ -12,8 +12,7 @@ from Task 1 – Accessing your Lab.</p></li>
 <ol start="3" type="1">
 <li><p>Click on “Cisco Webex Control Hub”</p></li>
 <li><p>Login using the email address and password as explained in Task 1
-- <a href="03-task-1-accessing-your-lab.html">Step 3: Login Credential for Control Hub and
-Webex app</a>.</p></li>
+- <a href="03-task-1-accessing-your-lab.html">Login to the Webex Clients</a>.</p></li>
 <li><p>You can select “Reject” for <em><mark>This site uses
 cookies</mark></em> pop-up window prompt – no impact to functionality.
 And select “No, thanks” at <em><mark>Meet the Cisco AI

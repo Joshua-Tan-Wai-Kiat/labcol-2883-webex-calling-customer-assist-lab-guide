@@ -10,7 +10,7 @@ helpdesk to a Webex Calling solution.</p></li>
 <li><p>Map Unity Connection’s Call Handler to Webex Calling Auto
 Attendant</p></li>
 <li><p>Map Unified Communications Manager Hunt pilot queues to Webex
-Calling Auto Attendant</p></li>
+Calling call queues</p></li>
 </ul>
 <ol start="3" type="1">
 <li><p>Migrate and configure Agent and supervisor experience with live

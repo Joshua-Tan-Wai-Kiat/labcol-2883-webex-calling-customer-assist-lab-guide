@@ -1,4 +1,4 @@
-# Create Unity Connection Call Handler Data Dump {#task-3-create-unity-connection-call-handler-data-dump-3-minutes}
+# Locate the prepared Unity Connection files {#task-3-create-unity-connection-call-handler-data-dump-3-minutes}
 
 <div class="page-meta">LABCOL-2883 <span>Task 3</span><span>3 minutes</span></div>
 <aside class="lab-note" role="note"><p><strong>Note:</strong></p>
@@ -43,7 +43,5 @@ Connection Call Hanlder Data
 Dump_cuc1.dcloud.cisco.com_CSV_Output_250505_12_45_56.CSV”</p></li>
 </ul>
 <ol start="2" type="1">
-<li><p>Refer to Appendix – <strong>C. Install Call Handler Data Dump
-Tool</strong> for detail steps to install, configure and run Call
-Handler Data Dump tool.</p></li>
+<li><p>This lab uses the prepared data dump and greeting files. Installing and running the Call Handler Data Dump tool is outside the scope of this lab.</p></li>
 </ol></aside>
