@@ -115,7 +115,7 @@ proceed.</p>
 Manage, to see the recently added Auto Attendant named “SupportDeskIVR”
 with extension 6500.</p>
 <figure class="lab-figure"><a aria-label="Enlarge Lab guide screenshot 66" class="screenshot-link" href="assets/images/image66.png"><img alt="Lab guide screenshot 66" class="lab-screenshot" height="746" loading="lazy" src="assets/images/image66.png" width="1878"/></a></figure>
-<div class="instruction-panel"><div><img alt="Lab guide control icon 1" class="inline-control" height="26" loading="lazy" src="assets/images/image1.png" width="20"/></div><div><ul>
+<div class="instruction-panel icon-note"><div><img alt="Lab guide control icon 1" class="inline-control" height="26" loading="lazy" src="assets/images/image1.png" width="20"/></div><div><ul>
 <li><p>Webex Calling Auto Attendant disconnects a call after 10 seconds
 of no key press following the greeting. To adjust this inactivity timer
 or set the greeting to repeat, configure the settings in the Auto
