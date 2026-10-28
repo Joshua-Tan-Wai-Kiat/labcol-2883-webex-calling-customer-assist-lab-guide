@@ -40,7 +40,7 @@ Holland (cholland) and from within workstation 2 for the user Anita
 Perez (aperez). Credentials should be in the respective files placed on
 the Desktops of the respective workstations. Refer to an example file
 with the credential details:</p>
-<figure class="lab-figure"><a class="screenshot-link" href="assets/images/image13.png" aria-label="Enlarge Lab guide screenshot 13"><img class="lab-screenshot" src="assets/images/image13.png" alt="Lab guide screenshot 13" width="880" height="336" loading="lazy"/></a></figure>
+<figure class="lab-figure"><a class="screenshot-link" href="assets/images/image14.png" aria-label="Enlarge Lab guide screenshot 14"><img class="lab-screenshot" src="assets/images/image14.png" alt="Lab guide screenshot 14" width="602" height="276" loading="lazy"/></a></figure>
 ## Login to Collaboration Control Hub from within Workstation 1 {#login-to-collaboration-control-hub-from-within-workstation-1}
 <p>Lauch the Chrome browser from within workstation 1and go to <a href="https://admin.webex.com/">https://admin.webex.com</a>. Login using
 the credentials from the WEBEX_PASSWORD.txt file from the previous
