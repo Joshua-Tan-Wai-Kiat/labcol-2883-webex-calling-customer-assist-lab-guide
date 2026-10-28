@@ -61,6 +61,7 @@
   ],
   "included_images": [
     "image1.png",
+    "image10.png",
     "image103.png",
     "image104.png",
     "image105.png",
@@ -68,6 +69,7 @@
     "image107.png",
     "image108.png",
     "image109.png",
+    "image11.png",
     "image110.png",
     "image111.png",
     "image112.png",
@@ -80,7 +82,10 @@
     "image119.png",
     "image12.png",
     "image120.png",
+    "image13.png",
+    "image14.png",
     "image15.png",
+    "image16.png",
     "image17.png",
     "image18.png",
     "image19.png",
@@ -91,6 +96,7 @@
     "image23.png",
     "image24.png",
     "image25.png",
+    "image26.png",
     "image27.png",
     "image28.png",
     "image29.png",
@@ -160,6 +166,7 @@
     "image87.png",
     "image88.png",
     "image89.png",
+    "image9.png",
     "image90.png",
     "image91.png",
     "image92.png",
@@ -171,15 +178,13 @@
     "image98.png",
     "image99.png"
   ],
-  "omitted_images": [
-    "image10.png",
-    "image11.png",
-    "image13.png",
-    "image14.png",
-    "image16.png",
-    "image26.png",
-    "image9.png"
-  ],
+  "omitted_images": [],
   "formatted": "2026-10-28",
-  "format_reference": "https://webexcc-sa.github.io/MEL26LTRCCT-2000/"
+  "format_reference": "https://webexcc-sa.github.io/MEL26LTRCCT-2000/",
+  "document_artwork": [
+    "image100.png",
+    "image101.png",
+    "image102.jpg"
+  ],
+  "screenshot_policy": "All instructional screenshots are included, including sample credentials, as explicitly requested by the owner on 28 October 2026."
 }

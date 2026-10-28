@@ -17,7 +17,7 @@ tab in this lab is set to Cisco dCloud.</p></li>
 <li><p>Click on “Collaboration Admin Links” &gt; jot down the userid and
 password shown in “Cisco Unified Communication Manager”</p></li>
 </ol>
-<p><span class="omitted-figure lab-note">[Screenshot with example access credentials omitted. Use your assigned lab session details.]</span></p>
+<figure class="lab-figure"><a class="screenshot-link" href="assets/images/image16.png" aria-label="Enlarge Lab guide screenshot 16"><img class="lab-screenshot" src="assets/images/image16.png" alt="Lab guide screenshot 16" width="504" height="279" loading="lazy"/></a></figure>
 <ol start="4" type="1">
 <li><p>Click on “Cisco Unified Communication Manager”</p></li>
 <li><p>Type in the userid and password from step #2 above, and then

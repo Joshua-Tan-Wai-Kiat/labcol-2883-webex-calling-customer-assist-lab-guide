@@ -8,7 +8,7 @@
 shown under “Cisco Webex Control Hub” – or you can refer to your note
 from Task 1 – Accessing your Lab.</p></li>
 </ol>
-<p><span class="omitted-figure lab-note">[Screenshot with example access credentials omitted. Use your assigned lab session details.]</span></p>
+<figure class="lab-figure"><a class="screenshot-link" href="assets/images/image26.png" aria-label="Enlarge Lab guide screenshot 26"><img class="lab-screenshot" src="assets/images/image26.png" alt="Lab guide screenshot 26" width="612" height="196" loading="lazy"/></a></figure>
 <ol start="3" type="1">
 <li><p>Click on “Cisco Webex Control Hub”</p></li>
 <li><p>Login using the email address and password as explained in Task 1

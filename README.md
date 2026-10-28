@@ -21,4 +21,4 @@ Build with `python -m mkdocs build --strict`.
 
 ## Source conversion
 
-The supplied Word guide provides the instructions, tables, screenshots, and author attribution. Word page numbers are replaced by section navigation. Legacy EMF screenshots were converted to PNG for browsers. Seven screenshots showing example access credentials are replaced by labeled placeholders; example VPN values and password derivation rules are replaced with references to assigned session details. The original Word file and omitted images are not included.
+The supplied Word guide provides the instructions, tables, screenshots, and author attribution. Word page numbers are replaced by section navigation. Legacy EMF screenshots were converted to PNG for browsers. All instructional screenshots are included, including screenshots containing sample passwords, at the owner’s explicit request. Sample credentials are for the disposable training sessions. The three original document branding assets are also retained under docs/assets/images/. The original Word file is not included.
