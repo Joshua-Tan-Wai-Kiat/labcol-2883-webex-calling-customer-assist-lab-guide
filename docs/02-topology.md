@@ -1,18 +1,9 @@
 # Topology {#topology}
-
 <p>The lab will have Unified Communications Manager and Unity Connection
 with preconfigured users and devices.</p>
+<figure class="lab-figure"><a aria-label="Enlarge Lab guide screenshot 8" class="screenshot-link" href="assets/images/image8.png"><img alt="Lab guide screenshot 8" class="lab-screenshot" height="1044" loading="lazy" src="assets/images/image8.png" width="2016"/></a></figure>
+<div aria-label="Lab reference table" class="table-scroll" role="region" tabindex="0"><table>
 
-<p><img alt="Lab guide screenshot 8" height="1044" loading="lazy" src="assets/images/image8.png" style="max-width:100%;height:auto;" width="2016"/></p>
-
-<table>
-<colgroup>
-<col style="width: 28%"/>
-<col style="width: 15%"/>
-<col style="width: 21%"/>
-<col style="width: 20%"/>
-<col style="width: 14%"/>
-</colgroup>
 <thead>
 <tr>
 <th><strong>Application</strong></th>
@@ -80,17 +71,10 @@ with preconfigured users and devices.</p>
 <td>dCloud<mark>ZZZZ</mark>!</td>
 </tr>
 </tbody>
-</table>
-
+</table></div>
 <p>Users detail:</p>
+<div aria-label="Lab reference table" class="table-scroll" role="region" tabindex="0"><table>
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 21%"/>
-<col style="width: 37%"/>
-<col style="width: 17%"/>
-<col style="width: 23%"/>
-</colgroup>
 <thead>
 <tr>
 <th><strong>User</strong></th>
@@ -161,23 +145,9 @@ with preconfigured users and devices.</p>
 <td><strong>Y</strong></td>
 </tr>
 </tbody>
-</table>
-
-<table style="width:100%;">
-<colgroup>
-<col style="width: 10%"/>
-<col style="width: 89%"/>
-</colgroup>
-<thead>
-<tr>
-<th></th>
-<th style="text-align: left;"><p><strong>Note:</strong></p>
+</table></div>
+<aside class="lab-note" role="note"><p><strong>Note:</strong></p>
 <p>Detail on how to find your lab domain name
 (@cb<mark>XXX</mark>.dc-<mark>YY</mark>.com) and last 4-digits of your
 lab session ID (<mark>ZZZZ</mark>) will be explained in Task 1:
-Accessing your Lab, below.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+Accessing your Lab, below.</p></aside>

@@ -1,59 +1,23 @@
-# Learning Objectives {#learning-objectives}
+---
+title: Home
+hide:
+  - navigation
+  - toc
+---
 
-<p>Upon completion of this lab, you will be able to:</p>
+<div class="lab-hero">
+<p class="eyebrow">CISCO LIVE MELBOURNE 2026 · LABCOL-2883</p>
+<h1>Webex Calling<br>Customer Assist</h1>
+<p class="hero-description">Migrate your helpdesk to Webex Calling. Build auto attendants and call queues, configure agent and supervisor experiences, and validate the complete call flow.</p>
+<p class="hero-authors">Hussain Ali and Omer Ilyas · Technical Marketing Engineers</p>
+<a class="hero-button" href="01-overview.html">Get started <span aria-hidden="true">→</span></a>
+<a class="hero-secondary" href="03-task-1-accessing-your-lab.html">Go to the lab →</a>
+</div>
 
-<ol type="1">
-<li><p>Gain foundational knowledge of Webex Calling Customer Assist and
-its key features.</p></li>
-<li><p>Explore a migration scenario transitioning from an on-premises
-helpdesk to a Webex Calling solution.</p></li>
-</ol>
+## Your lab journey
 
-<ul>
-<li><p>Map Unity Connection’s Call Handler to Webex Calling Auto
-Attendant</p></li>
-<li><p>Map Unified Communications Manager Hunt pilot queues to Webex
-Calling Auto Attendant</p></li>
-</ul>
-
-<ol start="3" type="1">
-<li><p>Migrate and configure Agent and supervisor experience with live
-queue monitoring and screen pop integration.</p></li>
-<li><p>Configure and utilize features such as screen pop, and Control
-Hub analytics for queue reporting.</p></li>
-</ol>
-
-<p>These are the <strong>high-level tasks</strong> to achieve the
-objectives of this lab:</p>
-
-<ol type="1">
-<li><p>Export and upload legacy call flow data from: Unified
-Communications Manager config export tar file, and Unity Connection Call
-Handler Data Dump file</p></li>
-<li><p>Use “Migrate Feature from UCM” migration utility on Control Hub
-to transform and bulk import configurations into Webex Calling</p></li>
-<li><p>Verify created users, auto attendant and call queues</p></li>
-<li><p>Configure screen pops and other Customer Assist features</p></li>
-<li><p>Overview of call queues analytics</p></li>
-</ol>
-
-<p>Icons used in this lab guide and its meaning:</p>
-
-<table style="width:100%;">
-<colgroup>
-<col style="width: 11%"/>
-<col style="width: 88%"/>
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: center;"></th>
-<th>Indicate important information or steps</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;"><img alt="Lab guide control icon 1" height="26" loading="lazy" src="assets/images/image1.png" style="max-width:100%;height:auto;max-height:32px;vertical-align:middle;width:auto;" width="20"/></td>
-<td>Indicate best practice configuration</td>
-</tr>
-</tbody>
-</table>
+<div class="journey-grid">
+<a class="journey-card" href="03-task-1-accessing-your-lab.html"><span class="card-number">01</span><h3>Get ready</h3><p>Explore the topology, access your workstations, and sign in to your lab.</p><span>Getting Started →</span></a>
+<a class="journey-card" href="task-2.html"><span class="card-number">02</span><h3>Migrate the call flow</h3><p>Export CUCM and Unity Connection data, prepare files, and import auto attendants and call queues.</p><span>Tasks 2–7 →</span></a>
+<a class="journey-card" href="08-task-8-add-supervisor-for-customer-assist-5-minutes.html"><span class="card-number">03</span><h3>Configure and validate</h3><p>Add supervisors, configure screen pops, and test the caller, agent, and supervisor experiences.</p><span>Tasks 8–10 →</span></a>
+</div>

@@ -3,8 +3,12 @@
   "source_sha256": "27276a40eaebe721dedac0c192f4835682709aeba1a7c268d467cd172168db75",
   "pages": [
     {
-      "title": "Learning Objectives",
+      "title": "Home",
       "filename": "index.md"
+    },
+    {
+      "title": "Learning objectives",
+      "filename": "learning-objectives.md"
     },
     {
       "title": "Overview",
@@ -175,5 +179,7 @@
     "image16.png",
     "image26.png",
     "image9.png"
-  ]
+  ],
+  "formatted": "2026-10-28",
+  "format_reference": "https://webexcc-sa.github.io/MEL26LTRCCT-2000/"
 }
